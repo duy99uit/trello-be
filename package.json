@@ -1,0 +1,14 @@
+{
+  "name": "trello-be",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "repository": "git@github.com:duy99uit/trello-be.git",
+  "author": "Duy Dev <duy99.uit@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "eslint": "^8.11.0",
+    "express": "^4.17.3"
+  }
+}
